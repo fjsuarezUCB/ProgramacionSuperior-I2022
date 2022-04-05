@@ -139,33 +139,33 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\array01.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\array02.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\array03.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\array04.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\array05.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\array06.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej00.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej01.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej02.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej03.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej04.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej05.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej06.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej07.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej08.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej09.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej10.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej11.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej12.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej13.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej14.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej15.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej16.cpp" />
-    <ClCompile Include="..\..\ProgramacionSuperior\ProgramacionSuperior\ej17.cpp" />
+    <ClCompile Include="array01.cpp" />
+    <ClCompile Include="array02.cpp" />
+    <ClCompile Include="array03.cpp" />
+    <ClCompile Include="array04.cpp" />
+    <ClCompile Include="array05.cpp" />
+    <ClCompile Include="array06.cpp" />
     <ClCompile Include="array07.cpp" />
     <ClCompile Include="array08.cpp" />
     <ClCompile Include="array09.cpp" />
+    <ClCompile Include="ej00.cpp" />
+    <ClCompile Include="ej01.cpp" />
+    <ClCompile Include="ej02.cpp" />
+    <ClCompile Include="ej03.cpp" />
+    <ClCompile Include="ej04.cpp" />
+    <ClCompile Include="ej05.cpp" />
+    <ClCompile Include="ej06.cpp" />
+    <ClCompile Include="ej07.cpp" />
+    <ClCompile Include="ej08.cpp" />
+    <ClCompile Include="ej09.cpp" />
+    <ClCompile Include="ej10.cpp" />
+    <ClCompile Include="ej11.cpp" />
+    <ClCompile Include="ej12.cpp" />
+    <ClCompile Include="ej13.cpp" />
+    <ClCompile Include="ej14.cpp" />
+    <ClCompile Include="ej15.cpp" />
+    <ClCompile Include="ej16.cpp" />
+    <ClCompile Include="ej17.cpp" />
     <ClCompile Include="pointers01.cpp" />
     <ClCompile Include="pointers02.cpp" />
     <ClCompile Include="pointers03.cpp" />
@@ -174,6 +174,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\ProgramacionSuperior\ProgramacionSuperior\Cuenta.h" />
+    <ClInclude Include="Cuenta.h" />
+    <ClInclude Include="maximo.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
